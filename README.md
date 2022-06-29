@@ -7,3 +7,5 @@ https://cse-robotics.engr.tamu.edu/dshell/cs625/
 The full assignment can be found in the repo as "asgn5.pdf". 
 
 To run this code, simply download all the helper functions, ensure they are in the path, and run assignment5.m 
+
+For a detailed description of my approach go to https://davidvwijk.github.io/PackingPuzzle/
